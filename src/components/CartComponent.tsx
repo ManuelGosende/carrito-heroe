@@ -1,4 +1,4 @@
-export const CarritoComponent = () => {
+export const CartComponent = () => {
   return (
     <div>
       <button>Volver</button>
