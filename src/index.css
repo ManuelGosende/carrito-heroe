@@ -22,3 +22,19 @@ h4,
 h5 {
   color: white;
 }
+.buttonCustom {
+  border-radius: 1rem;
+  color: white;
+  font-size: 0.875rem;
+  text-align: center;
+}
+.buttonCustom:hover {
+  transform: scale(1.05);
+  transition-duration: 0.3s;
+}
+.cardCustom {
+  border: 2px solid transparent;
+}
+.cardCustom:hover {
+  border-color: #6f23bc;
+}
