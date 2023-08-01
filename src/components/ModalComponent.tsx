@@ -1,5 +1,4 @@
 import React from "react";
-import { useModal } from "../hooks/useModal";
 import { useCart } from "../hooks/useCart";
 
 type ModalComponentProps = {
