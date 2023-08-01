@@ -54,3 +54,9 @@ body: { itemsId: [1,2,3,4] }
 ## Demo
 
 ![Alt Text](./demo.gif)
+
+## Modal (funcionalidad extra)
+
+Se creó un Modal para dar aviso a 🧙‍♂️ de que aún cuenta con Gemas para sumar productos al carrito y así tener más posibilidades de vencer a 🐉. Dicho Modal cuenta con dos opciones: "Volver al marketplace" para poder utilizar las Gemas restantes, o "Continuar al carrito" para realizar la compra de los productos seleccionados.
+
+![Alt Text](./demo-modal.gif)
